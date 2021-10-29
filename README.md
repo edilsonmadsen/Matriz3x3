@@ -1,2 +1,5 @@
 # Matriz3x3
- Matriz 3x3 com analise dos dados inseridos
+ Matriz de dimensão 3x3 e mostrando:
+> a soma dos valores pares;
+> soma dos valores da terceira coluna,
+> e o maior valor da segunda linha.
